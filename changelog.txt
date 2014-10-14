@@ -1,3 +1,7 @@
+20141015
+- adjust print stylesheet, fix footer position
+>> Chrome still have some problems with footer
+
 20121030
 - merge with WallaGroup's branch (special thanks to @johncylee)
 >> now we have Makefile :)
