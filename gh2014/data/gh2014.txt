@@ -4,7 +4,7 @@ PLACE	DATE	TIME	DURATION	CATEGORY	CTITLE	ETITLE	GRADE	REMARK	PAGE
 喜滿客京華影城 4 廳	2014/11/07	19:10	105	亞洲之窗	三城戀習曲	Sway	護 P		161
 喜滿客京華影城 4 廳	2014/11/07	21:30	112	影壇新世代	少女最搖擺	Girlhood	護 P		144
 喜滿客京華影城 5 廳	2014/11/07	16:50	93	傳奇人生	追憶費里尼	How Strange To Be Named Federico: Scola Narrates Fellini	普 G		205
-喜滿客京華影城 5 廳	2014/11/07	19:00	88	台灣製造	台灣短打 1 - 七點半的太空人 + 溺境 + 影子 + 屍憶	Taiwan Shorts 1 - First Launch +  Under The Water + Shadow + The Bride	護 P	★	92,93
+喜滿客京華影城 5 廳	2014/11/07	19:00	88	台灣製造	台灣短打 1 - 七點半的太空人 + 溺境 + 影子 + 屍憶	First Launch +  Under The Water + Shadow + The Bride	護 P	★	92,93
 喜滿客京華影城 5 廳	2014/11/07	21:30	112	影壇新世代	少女最搖擺	Girlhood	護 P		144
 喜滿客京華影城 8 廳	2014/11/07	19:00	96	影壇新世代	我媽媽是派對女孩	Party Girl	輔 PG	★	143
 喜滿客京華影城 8 廳	2014/11/07	21:40	90	傳奇人生	關於 Pulp 的日常搖滾	Plup: A Film About Life, Death & Supermarkets	普 G		201
@@ -23,7 +23,7 @@ PLACE	DATE	TIME	DURATION	CATEGORY	CTITLE	ETITLE	GRADE	REMARK	PAGE
 喜滿客京華影城 5 廳	2014/11/08	11:30	81	動畫王國	麥兜‧我和我媽媽	McDull: Me & My Mom	普 G		197
 喜滿客京華影城 5 廳	2014/11/08	13:30	96	影壇新世代	我媽媽是派對女孩	Party Girl	輔 PG	★	143
 喜滿客京華影城 5 廳	2014/11/08	16:10	70	大師饗宴	3×3D	3×3D	護 P		104
-喜滿客京華影城 5 廳	2014/11/08	18:00	94	台灣製造	台灣短打 2 - 跳下去，活下來 + 春風 + 不即不離	Taiwan Shorts 2 - Jump Off Or Live On + Spring Breeze + Absent Without Leave	護 P	★	94,95
+喜滿客京華影城 5 廳	2014/11/08	18:00	94	台灣製造	台灣短打 2 - 跳下去，活下來 + 春風 + 不即不離	Jump Off Or Live On + Spring Breeze + Absent Without Leave	護 P	★	94,95
 喜滿客京華影城 5 廳	2014/11/08	20:40	119	亞洲之窗	寧靜咖啡館之歌	The Furthest End Awaits	護 P	★	153
 喜滿客京華影城 8 廳	2014/11/08	11:50	89	影迷嘉年華	因為愛情：在她消失以後	The Disapperance Of Eleanor Rigby: Him	護 P		124
 喜滿客京華影城 8 廳	2014/11/08	14:00	100	影迷嘉年華	因為愛情：在離開他以後	The Disapperance Of Eleanor Rigby: Her	護 P		125
@@ -250,7 +250,7 @@ PLACE	DATE	TIME	DURATION	CATEGORY	CTITLE	ETITLE	GRADE	REMARK	PAGE
 喜滿客京華影城 4 廳	2014/11/19	15:30	114	金馬獎入圍影片	甜蜜殺機	Sweet Alibis	輔 PG		72
 喜滿客京華影城 4 廳	2014/11/19	18:20	110	金馬獎入圍影片	綉春刀	Brotherhood Of Blades	護 P		76
 喜滿客京華影城 5 廳	2014/11/19	12:50	105	不設防地帶	久美子的奇異旅程	Kumiko, The Treasure Hunter	輔 PG		170
-喜滿客京華影城 5 廳	2014/11/19	15:10	88	台灣製造	台灣短打 1 - 七點半的太空人 + 溺境 + 影子 + 屍憶	Taiwan Shorts 1 - First Launch +  Under The Water + Shadow + The Bride	護 P		92,93
+喜滿客京華影城 5 廳	2014/11/19	15:10	88	台灣製造	台灣短打 1 - 七點半的太空人 + 溺境 + 影子 + 屍憶	First Launch +  Under The Water + Shadow + The Bride	護 P		92,93
 喜滿客京華影城 5 廳	2014/11/19	17:20	77	傳奇人生	蘇古諾夫：世紀之聲	The Voice Of Sokurov	輔 PG		206
 喜滿客京華影城 5 廳	2014/11/19	19:20	102	不設防地帶	情慾變形記	Metamorphoses	限 R		176
 喜滿客京華影城 5 廳	2014/11/19	21:40	83	頑童、情聖、電影狂：楚浮	野孩子	The Wild Child	護 P		225
@@ -272,7 +272,7 @@ PLACE	DATE	TIME	DURATION	CATEGORY	CTITLE	ETITLE	GRADE	REMARK	PAGE
 喜滿客京華影城 4 廳	2014/11/20	13:10	134	金馬獎入圍影片	掃毒	The White Storm	限 R		56
 喜滿客京華影城 4 廳	2014/11/20	16:20	110	金馬獎入圍影片	寒蟬效應	(Sex) Apeal	輔 PG		75
 喜滿客京華影城 4 廳	2014/11/20	19:10	120	金馬獎入圍影片	那夜凌晨，我坐上了旺角開往大埔的紅 VAN	The Midnight After	輔 PG		57
-喜滿客京華影城 5 廳	2014/11/20	12:50	94	台灣製造	台灣短打 2 - 跳下去，活下來 + 春風 + 不即不離	Taiwan Shorts 2 - Jump Off Or Live On + Spring Breeze + Absent Without Leave	護 P		94,95
+喜滿客京華影城 5 廳	2014/11/20	12:50	94	台灣製造	台灣短打 2 - 跳下去，活下來 + 春風 + 不即不離	Jump Off Or Live On + Spring Breeze + Absent Without Leave	護 P		94,95
 喜滿客京華影城 5 廳	2014/11/20	15:00	200	作者相對論	荒唐小鎮殺人事件	Li'l Quinquin	輔 PG		120
 喜滿客京華影城 5 廳	2014/11/20	19:00	105	金馬獎入圍影片	一個勺子	A Fool	普 G		52
 喜滿客京華影城 5 廳	2014/11/20	21:20	128	不設防地帶	寂寞飛行	Bird People	護 P		175
