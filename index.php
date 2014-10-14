@@ -50,6 +50,7 @@ else
     <h1>Which film festival?</h1>
     <div id="festList">
         <ul>
+            <li><a href="gh2014">2014 金馬影展 / Golden Horse 2014</a></li>
             <li><a href="gh2012">2012 金馬影展 / Golden Horse 2012</a></li>
             <li><a href="tiff2011">2011 台北電影節 / Taipei Film Festival 2011</a></li>
             <li><a href="gh2011f">2011 金馬奇幻影展 / Golden Horse 2011 (Fantastic)</a></li>
