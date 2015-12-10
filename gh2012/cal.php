@@ -22,8 +22,8 @@ $k = new moovee();
 <link rel="stylesheet" href="../styles/calprint.css" type="text/CSS" media="print" />
 <link rel="stylesheet" href="../styles/movprops.css" type="text/css" />
 <link rel="stylesheet" href="../styles/calprops.css" type="text/css" />
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
 <script src="../func.js" type="text/javascript"></script>
 </head>
 <body onload="renderCal();">

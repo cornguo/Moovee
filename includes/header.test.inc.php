@@ -9,8 +9,8 @@
 <link rel="stylesheet" href="../styles/style.test.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="../styles/print.test.css" type="text/css" media="print" />
 <link rel="stylesheet" href="../styles/movprops.test.css" type="text/css" />
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
 <script src="../bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <script src="../func.test.js" type="text/javascript"></script>
 <!-- Oh, yes, please render it using chrome frame, or your almost-standard engine -->
@@ -19,5 +19,5 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <![endif]-->
 <!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
